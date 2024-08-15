@@ -27,7 +27,7 @@ $bestLanguages[] = "Typescript"
 ?>
 <ul>
     <?php foreach ($bestLanguages as $key => $language):  ?>
-        <li><?= $key."". $language ?> </li>
+        <li><?= $key."  ". $language ?> </li>
     <?php endforeach;  ?>   
 </ul>
 
