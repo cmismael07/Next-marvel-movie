@@ -2,7 +2,7 @@
 
 $name= "Isma";
 $isDev= true;
-$age = 17;
+$age = 24;
 // $isOld = $age > 40;
 define('LOGO_URL', 'https://cdn.freebiesupply.com/logos/large/2x/php-1-logo-svg-vector.svg');
 $output= "Hola $name, con una edad de $age";
